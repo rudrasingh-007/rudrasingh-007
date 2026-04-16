@@ -1,19 +1,25 @@
-## Hi there 👋
-# Hi, I'm Rudra 👋
+# Hi, I'm Rudra
 
-🔐 Cybersecurity Enthusiast  
-🤖 Exploring AI in Security  
+I’m a Computer Science student with focused interests in **Cybersecurity, Problem Solving, AI, and AI-driven security systems**.
 
-## 🚀 Projects
-- Threat Hunting Graphs (in progress)
-- Carbon Footprint Tracker (coming soon)
+My work involves analyzing system vulnerabilities, solving algorithmic problems, and exploring how AI can be applied to **security monitoring, anomaly detection, and automated decision-making**. I am also interested in understanding how AI models work internally, including **how they reason, learn patterns, and behave in different scenarios.**
 
-## 🧠 Currently Learning
-- Cybersecurity fundamentals
-- AI + Security integration
+---
 
-## 📫 Connect with me
-- LinkedIn (https://www.linkedin.com/in/rudra-pratap-singh-23a972279/)
-<!--
-**rudrasingh-007/rudrasingh-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
+* **Threat Hunting Graphs** *(In Progress)*
+* **AI Powered Carbon Footprint Tracker** *(Few debuggings left)*
+
+---
+
+## Currently Learning
+
+* Cybersecurity Fundamentals
+* AI + Security Integration
+
+---
+
+## Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/rudra-pratap-singh-23a972279/
