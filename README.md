@@ -13,7 +13,7 @@ My work involves analyzing system vulnerabilities, solving algorithmic problems,
 ## Projects
 
 * **Threat Hunting Graphs** *(In Progress)*
-* **AI Powered Carbon Footprint Tracker** *(Few debuggings left)*
+* **AI Powered Carbon Footprint Tracker** *(Deployed with few bugs)*
 
 ---
 
