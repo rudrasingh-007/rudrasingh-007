@@ -1,8 +1,8 @@
+# Hi,
 <p align="center">
   <img src="banner.png" alt="banner" width="100%" />
 </p>
 
-# Hi, I'm Rudra
 
 I’m a Computer Science student with focused interests in **Cybersecurity, Problem Solving, AI, and AI-driven security systems**.
 
