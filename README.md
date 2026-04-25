@@ -1,29 +1,53 @@
-# Hi,
-<p align="center">
-  <img src="new banner.png" alt="banner" width="100%" />
-</p>
+<div align="center">
+██████╗ ██╗   ██╗██████╗ ██████╗  █████╗ 
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
+██████╔╝██║   ██║██║  ██║██████╔╝███████║
+██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗
+██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
+> *The quietest systems do the most damage.*
 
-I’m a Computer Science student with focused interests in **Cybersecurity, Problem Solving, AI, and AI-driven security systems**.
-
-My work involves analyzing system vulnerabilities, solving algorithmic problems, and exploring how AI can be applied to **security monitoring, anomaly detection, and automated decision-making**. I am also interested in understanding how AI models work internally, including **how they reason, learn patterns, and behave in different scenarios.**
-
----
-
-## Projects
-
-* **Threat Hunting Graphs** *(In Progress)*
-* **AI Powered Carbon Footprint Tracker** *(Deployed with few bugs)*
+</div>
 
 ---
 
-## Currently Learning
-
-* Cybersecurity Fundamentals
-* AI + Security Integration
+```bash
+$ whoami
+> CS undergrad. Security researcher in progress.
+> I don't break things. I understand them.
+```
 
 ---
 
-## Connect with Me
+### `// toolkit`
+nmap · wireshark · sqlmap · john the ripper
+python · kali linux · bash
+threat modeling · anomaly detection · AI-driven defense
 
-* LinkedIn: https://www.linkedin.com/in/rudra-pratap-singh-23a972279/
+---
+
+### `// current ops`
+
+| status | project |
+|--------|---------|
+| 🔴 active | **Aegis-SOC** — Automated L1-L2 SOC triage system |
+| 🟡 in progress | **Threat Hunting Graphs** |
+| 🟢 deployed | **AI Carbon Footprint Tracker** |
+
+---
+
+### `// learning`
+cybersecurity fundamentals
+AI × security integration
+how systems fail — and why
+
+---
+
+<div align="center">
+
+`think` &nbsp;·&nbsp; `analyze` &nbsp;·&nbsp; `secure`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-23a972279/)
+
+</div>
