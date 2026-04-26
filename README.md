@@ -14,9 +14,12 @@
 
 </div>
 Computer Science undergrad · 3rd Year · Galgotias University
+
 Passionate about Cybersecurity, AI systems, and using AI to build and transform security.
+
 My work spans SOC automation and L1-L2 triage, threat hunting, anomaly detection,
 and auditing LLMs for privacy leaks and information disclosure vulnerabilities.
+
 Technically curious — I don't just use tools, I understand how they break.
 
 ---
