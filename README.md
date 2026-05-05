@@ -29,6 +29,9 @@ LLM privacy auditing toolkit. Three attack vectors — PII generation risk, regu
 `nmap` `wireshark` `burpsuite` `metasploit` `sqlmap` `Kali` `Gemini API` `Presidio`
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rudrasingh-007&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" width="345"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-23a972279/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/rudrasingh-007)
