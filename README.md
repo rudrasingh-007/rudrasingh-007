@@ -1,48 +1,33 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=RUDRA+PRATAP+SINGH)](https://git.io/typing-svg)
-
-> *The quietest systems do the most damage.*
-
-</div>
+# Rudra Pratap Singh
+*The quietest systems do the most damage.*
 
 ---
 
-<div align="center">
-
-### `$ whoami`
-
-</div>
-Computer Science undergrad · 3rd Year · Galgotias University
-
-Passionate about Cybersecurity, AI systems, and using AI to build and transform security.
-
-My work spans SOC automation and L1-L2 triage, threat hunting, anomaly detection,
-and auditing LLMs for privacy leaks and information disclosure vulnerabilities.
-
-Technically curious — I don't just use tools, I understand how they break.
+CS undergrad building at the intersection of security and AI.
+I automate what analysts do manually — triage, threat hunting, privacy auditing.
+Curious about how systems fail. Focused on building things that don't.
 
 ---
 
-### `// toolkit`
+### Projects
 
-<div align="center">
+**[Aegis-SOC](https://github.com/rudrasingh-007/Aegis-SOC)**
+End-to-end L1/L2 SOC triage. Dual-source threat intel reclassification, kill-chain sequence detection, persistent anomaly baseline, real log ingestion. 43 tests.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+**[ThreatLens](https://github.com/rudrasingh-007/ThreatLens)**
+Graph-based threat visualization platform. APT kill chains mapped in Neo4j, explored in React, assessed by Gemini AI. See the attack, not the logs.
 
-`nmap` &nbsp;·&nbsp; `wireshark` &nbsp;·&nbsp; `sqlmap` &nbsp;·&nbsp; `john the ripper` &nbsp;·&nbsp; `burpsuite` &nbsp;·&nbsp; `metasploit`
-
-</div>
+**[Spectra](https://github.com/rudrasingh-007/Spectra)**
+LLM privacy auditing toolkit. Three attack vectors — PII generation risk, regurgitation detection, membership inference — with weighted scoring and HTML audit reports.
 
 ---
 
-<div align="center">
+### Toolkit
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-23a972279/)
+`Python` `Java` `Bash` `FastAPI` `Flask` `React` `Neo4j` `SQLite`
+`nmap` `wireshark` `burpsuite` `metasploit` `sqlmap` `Kali` `Gemini API` `Presidio`
 
-</div>
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-23a972279/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/rudrasingh-007)
